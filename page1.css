@@ -1,0 +1,56 @@
+
+body{
+	background-image:url("https://kayifi.com/public/images/blogs/How-to-Fit-Packing-for-Your-Entire-Trip-into-a-Carry-on-50078.jpg");
+				background-size: 100% 100%;
+				background-repeat:no-repeat;
+}
+	ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+     height:30px;
+	line-height:30px;
+	background-color: white;
+	font-family:arial,helvetica,sans-serif;
+	font-size:13px;
+font-size:30px;
+}
+  li{
+	float:left;
+	border-right:1px solid  #0080ff;
+	color:black;
+	font-size:20px;
+	padding:top 0;
+}
+		
+		a{
+			display:block;
+			padding:0 28px;
+			color:black;
+			text-decoration:none;
+			margin-top:0;
+			text-align:right-side;
+			float:left;
+			background-color:white;
+		}
+
+a:hover{
+	background-color:blue;
+}
+
+	h1{
+	text-align:right;
+   
+   
+   padding: 0 400px;
+   margin:0;
+   color:blue;
+   font-size:40px;
+  
+  
+   
+   
+{
+	p{
+		color:white;
+	}
